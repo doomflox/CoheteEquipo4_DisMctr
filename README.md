@@ -1,11 +1,11 @@
-## 🚀 Prototipo de Cohete Experimental
-# 📌 Descripción
+# 🚀 Prototipo de Cohete Experimental
+## 📌 Descripción
 
 Este proyecto consiste en el desarrollo de un prototipo de cohete diseñado para alcanzar la mayor altitud posible, mientras recopila datos en tiempo real sobre condiciones ambientales, posición y orientación.
 
 El sistema incluye un mecanismo autónomo de recuperación que despliega un paracaídas al detectar la fase de descenso, con el objetivo de preservar la integridad del dispositivo y permitir la recuperación de los datos recolectados.
 
-# 🎯 Objetivos
+## 🎯 Objetivos
   Alcanzar la mayor altitud posible de forma segura
   Medir variables ambientales durante el vuelo:
     Temperatura
@@ -18,7 +18,7 @@ El sistema incluye un mecanismo autónomo de recuperación que despliega un para
   Activar automáticamente un sistema de paracaídas durante el descenso
   Recuperar el prototipo y analizar los datos obtenidos
 
-# ⚙️ Características del Sistema
+## ⚙️ Características del Sistema
   📡 Telemetría en tiempo real (opcional)
   💾 Registro de datos en memoria local (SD)
   🧭 Sensores de orientación (IMU)
@@ -27,7 +27,7 @@ El sistema incluye un mecanismo autónomo de recuperación que despliega un para
   🪂 Sistema de despliegue de paracaídas
   🔋 Alimentación autónoma
 
-# 🧠 Lógica de Funcionamiento
+## 🧠 Lógica de Funcionamiento
   Lanzamiento
     El cohete despega y comienza la recolección de datos.
   Ascenso
