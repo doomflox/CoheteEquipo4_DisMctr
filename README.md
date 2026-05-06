@@ -6,17 +6,17 @@ Este proyecto consiste en el desarrollo de un prototipo de cohete diseñado para
 El sistema incluye un mecanismo autónomo de recuperación que despliega un paracaídas al detectar la fase de descenso, con el objetivo de preservar la integridad del dispositivo y permitir la recuperación de los datos recolectados.
 
 ## 🎯 Objetivos
-Alcanzar la mayor altitud posible de forma segura
+Alcanzar la mayor altitud posible de forma segura.
 Medir variables ambientales durante el vuelo:
-  Temperatura
-  Presión
-  Humedad
+  Temperatura.
+  Presión.
+  Humedad.
 Determinar:
-  Posición (GPS)
-  Orientación (IMU: acelerómetro + giroscopio)
-Detectar el punto de apogeo (altura máxima)
-Activar automáticamente un sistema de paracaídas durante el descenso
-Recuperar el prototipo y analizar los datos obtenidos
+  Posición (GPS).
+  Orientación (IMU: acelerómetro + giroscopio).
+Detectar el punto de apogeo (altura máxima).
+Activar automáticamente un sistema de paracaídas durante el descenso.
+Recuperar el prototipo y analizar los datos obtenidos.
 
 ## ⚙️ Características del Sistema
 📡 Telemetría en tiempo real (opcional)
